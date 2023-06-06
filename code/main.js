@@ -15,6 +15,7 @@ loadSprite("maria", "sprites/maria.png")
 loadSprite("palazzo", "sprites/palazzo.png")
 loadSprite("palazzetto", "sprites/palazzetto.png");
 
+//
 setGravity(1500);
 const JUMP_FORCE = 1250
 const MOVE = 450
